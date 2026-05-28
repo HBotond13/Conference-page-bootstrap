@@ -1,0 +1,41 @@
+body {
+      background-color: #f5f5f5;
+}
+
+.hero {
+      background: linear-gradient(to right, #4a576b, #96a4b9);
+      color: white;
+      padding: 80px 20px;
+      text-align: center;
+}
+
+.hero h1 {
+      font-size: 3rem;
+      font-weight: bold;
+}
+
+.section-title {
+      margin-bottom: 25px;
+      font-weight: bold;
+}
+
+.speaker-card:hover {
+      transform: translateY(-5px);
+      transition: 0.3s;
+}
+
+footer {
+      background-color: #000000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      margin-top: 50px;
+}
+
+.info-box {
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      text-align: center;
+}
